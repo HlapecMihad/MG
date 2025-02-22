@@ -6,9 +6,8 @@ function App() {
 
   return (
     <>
-      <h1>Meme Generator</h1>
-      <Main />
       <Header />
+      <Main />
     </>
   )
 }
